@@ -19,7 +19,7 @@ const skillGroups = [
 
 export default function Skills() {
     return (
-        <section className="mx-auto max-w-6xl px-6 py-20">
+        <section id="skills" className="mx-auto max-w-6xl px-6 py-20">
             <p className="text-sm font-semibold uppercase tracking-widest text-coral">
                 Skills
             </p>
