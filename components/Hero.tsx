@@ -35,7 +35,7 @@ export default function Hero() {
 
             <div className="flex justify-center md:justify-end">
                 <Image
-                    src="/images/headshot.jpg"
+                    src="/images/headshot-mt.png"
                     alt="Michael Testut headshot"
                     width={360}
                     height={360}
